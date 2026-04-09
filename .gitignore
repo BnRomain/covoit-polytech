@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Claude Code local settings
+.claude/
+
+# Documents personnels lies au projet
+Questionnaire_Covoiturage_Polytech.html
+Questionnaire_Covoiturage_Polytech.md
