@@ -7,7 +7,7 @@ Chaque membre a développé sa propre approche, disponible dans son dossier.
 
 | Dossier | Contributeur | Description |
 |---|---|---|
-| `Romain/` | Romain Ben | Application web complète (Next.js + Supabase) — [déployée sur Vercel](https://covoit-polytech.vercel.app) |
+| `Romain/` | Romain Ben | Application web complète (Next.js + Supabase) — [déployée sur Vercel](https://covoit-polytech-814c.vercel.app) |
 | `Baptiste/` | Baptiste | Site web |
 | `Lucas/` | Lucas | Application liée au site de Baptiste |
 
