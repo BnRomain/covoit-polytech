@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CovoitPolytech — Projet étudiant
 
-## Getting Started
+Projet de fin d'année sur le covoiturage entre étudiants de Polytech Nice Sophia.
+Chaque membre a développé sa propre approche, disponible dans son dossier.
 
-First, run the development server:
+## Contributeurs
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+| Dossier | Contributeur | Description |
+|---|---|---|
+| `Romain/` | Romain Ben | Application web complète (Next.js + Supabase) — [déployée sur Vercel](https://covoit-polytech.vercel.app) |
+| `Baptiste/` | Baptiste | Site web |
+| `Lucas/` | Lucas | Application liée au site de Baptiste |
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contexte
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Application de covoiturage dédiée aux étudiants de Polytech Nice Sophia. Fonctionnalités principales : publication de trajets récurrents, calcul automatique des frais d'essence au prorata, réservation, profil étudiant.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Basé sur une étude de besoins menée auprès des étudiants (questionnaire disponible dans `Romain/`).
